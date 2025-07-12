@@ -19,6 +19,5 @@
       "dest": "/$1"
     }
   ],
-  "functions": {},
   "outputDirectory": "."
 } 
