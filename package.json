@@ -1,0 +1,28 @@
+{
+  "name": "beta-reader-go",
+  "version": "1.0.0",
+  "description": "Plataforma gamificada onde você ganha dinheiro escrevendo críticas de livros",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 8000 -o",
+    "start": "npx http-server -p 8000",
+    "build": "echo 'Build completed'",
+    "vercel-build": "echo 'Vercel build completed'"
+  },
+  "keywords": [
+    "livros",
+    "críticas",
+    "avaliações",
+    "ganhar dinheiro",
+    "leitura",
+    "beta reader"
+  ],
+  "author": "Beta Reader Go",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 
